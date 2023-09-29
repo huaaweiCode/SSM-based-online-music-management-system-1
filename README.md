@@ -66,3 +66,8 @@
 ![管理员-反馈管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450867.jpg)
 
 ![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101450084.jpg)
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：音乐
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
